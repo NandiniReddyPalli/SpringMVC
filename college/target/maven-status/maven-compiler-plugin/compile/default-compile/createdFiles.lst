@@ -1,0 +1,8 @@
+com\cnts\repository\CollegeRepository.class
+com\cnts\service\CollegeService.class
+com\cnts\config\HibernateConfig.class
+com\cnts\college\bean\CollegeEntity.class
+com\cnts\bean\CollegePojo.class
+com\cnts\controller\CollegeController.class
+com\cnts\config\CollegeConfig.class
+com\cnts\services\imp\CollegeServiceimp.class
